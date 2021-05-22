@@ -1,0 +1,3 @@
+1. Edit the db_config.php and site_config.php when migrating.
+2. There is a backup copy of resource files in the res folder.
+3. The Names of other pages are self descriptive. 
