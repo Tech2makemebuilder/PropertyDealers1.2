@@ -48,7 +48,7 @@
                                         <a class="nav-link active nav-hover" style="margin: 10px 0 10px 0;" aria-current="page" href="#">Find a Home</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" style="margin: 10px 0 10px 0;" aria-current="page" href="../SellerModule/finalsell.html">Sale a Home</a>
+                                        <a class="nav-link" style="margin: 10px 0 10px 0;" aria-current="page" href="../../SellerModule/finalsell.html">Sale a Home</a>
                                     </li>
                                     <li class="nav-item">
                                         <a class="nav-link" style="margin: 10px 0 10px 0;" aria-current="page" href="../../BrokerModule/login.html">Be a Broker</a>
