@@ -52,8 +52,7 @@
                 <div style="color: black;" class="col-lg-12 login-title">REGISTER NOW</div>
                 <div class="col-lg-12 login-form">
                     <div class="col-lg-12 login-form">
-                       <!-- <form action="../Verification/otp.php">-->
-                        <form action="login.php">
+                        <form action="../Verification/otp.php">
                             <div class="form-group">
                                 <label class="form-control-label">USERNAME</label>
                                 <input style="background-color: white; color:black;" type="text" class="form-control" required>
